@@ -12,8 +12,8 @@ To write a python program to check whether Hamiltonian path exits in the given g
 
 ## Program:
 #### Program to implement to check whether Hamiltonian path exits in the given graph.
-#### Developed by: Soundariyan MN
-#### Register Number: 212222230146
+#### Developed by: Barath S
+#### Register Number: 212222230018
 
 ```PY
 def Hamiltonian_path(adj, N):
